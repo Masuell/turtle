@@ -2,6 +2,10 @@ import turtle
 from turtle import *
 
 def nakresli_kruh(tvar,velkost,farba,stupanie,polomer):
+    """
+        Popis tejto funkcie
+        Param: ksjfh kdlf
+    """
     tess=turtle.Turtle()
     tess.shape(tvar)
     tess.color(farba)
